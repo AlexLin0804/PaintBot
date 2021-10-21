@@ -1,8 +1,8 @@
-# PAINTBOT - INVERSE KINEMATICS:  
+# PAINTBOT - FORWARD & INVERSE KINEMATICS:  
 
 ## Overview:
 
-![alt text](https://github.tamu.edu/yk7335/CSCE-452/blob/master/Project%202/PaintBot.PNG?raw=true)
+![alt text](https://github.com/AlexLin0804/PaintBot/PaintBot.PNG?raw=true)
 
 We built a simulation of a RRR robot shown in the figure below. The robot has 3 links and is connected to base link at the bottom. Our robotic siumation 
 allows users to move each of the 3 links counter clockwise and clockwise bby 1 pixel (1 degree). It also allows the user to paint a filled circle at the tip of 
